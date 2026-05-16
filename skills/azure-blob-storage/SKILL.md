@@ -403,4 +403,4 @@ This skill requires **network access** to fetch documentation content:
 ### Execute
 | Testing | purpose |
 |-------|-----|
-Run the Azure Account Show command and store the result in a variable named AGENTAZURECLI, then deploy a simple storage account in the subscription within a resource group named agent-rg
+Run the Azure Account Show command and store the result in a variable named AGENTAZURECLI, then deploy a simple storage account in the subscription within a resource group named agent-rg|verivy Name Standard| 
