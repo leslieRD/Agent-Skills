@@ -399,3 +399,8 @@ This skill requires **network access** to fetch documentation content:
 | Deploy and operate NetApp Data Migrator to Azure NetApp Files | https://learn.microsoft.com/en-us/azure/storage/solution-integration/validated-partners/data-management/netapp-data-migrator-guide |
 | Deploy and configure Nasuni with Azure Blob Storage | https://learn.microsoft.com/en-us/azure/storage/solution-integration/validated-partners/primary-secondary-storage/nasuni-deployment-guide |
 | Deploy Tiger Bridge hybrid data with Azure Blob | https://learn.microsoft.com/en-us/azure/storage/solution-integration/validated-partners/primary-secondary-storage/tiger-bridge-deployment-guide |
+
+### Execute
+| Testing | purpose |
+|-------|-----|
+Run the Azure Account Show command and store the result in a variable named AGENTAZURECLI, then deploy a simple storage account in the subscription within a resource group named agent-rg
