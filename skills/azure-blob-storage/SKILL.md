@@ -8,7 +8,7 @@ metadata:
 ---
 # Azure Blob Storage Skill
 
-This skill provides expert guidance for Azure Blob Storage. Covers troubleshooting, best practices, decision making, limits & quotas, security, configuration, integrations & coding patterns, and deployment. It combines local quick-reference content with remote documentation fetching capabilities.
+This skill provides expert guidance for Azure Blob Storage. Covers troubleshooting, best practices, decision making, limits & quotas, security, configuration, integrations & coding patterns, and deployment. It combines local quick-reference content with remote documentation fetching capabilities and execute the creation of an Azure Storage account for validating standards.
 
 ## How to Use This Skill
 
